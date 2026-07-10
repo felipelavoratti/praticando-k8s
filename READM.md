@@ -4,7 +4,7 @@ Laboratório de estudos DevOps e Kubernetes.
 
 ## Ambiente
 
-- Windows 10
+- Windows 11
 - WSL
 - Docker
 - kind
@@ -12,7 +12,7 @@ Laboratório de estudos DevOps e Kubernetes.
 
 ## Objetivo
 
-Aprender Kubernetes na prática, evoluindo de um ambiente local para conceitos utilizados em produção.
+Aprender Kubernetes na prática, evoluindo de um ambiente local escalando para Cloud, praticando e aprendendo conceitos utilizados em produção.
 
 ## Progresso
 
@@ -33,7 +33,7 @@ Aprender Kubernetes na prática, evoluindo de um ambiente local para conceitos u
 - [ ] CI/CD
 - [ ] GitOps
 
-## Primeiro laboratório
+## laboratório
 
 Cluster criado usando kind:
 kind create cluster --name homedevops
