@@ -1,6 +1,6 @@
 # Checkpoint - Kubernetes Lab
 
-## Estado atual
+## Estado atual.
 
 Data: 2026-07-10
 
