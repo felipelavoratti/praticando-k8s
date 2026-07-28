@@ -6,7 +6,7 @@ Data: 2026-07-10
 
 ## Ambiente
 
-- Windows 10
+- Windows 10.
 - WSL funcionando
 - Docker funcionando
 - kubectl instalado
